@@ -1,0 +1,7 @@
+{
+  "action": "continue_training",
+  "timestamp": "2025-08-30T06:18:06.334082",
+  "model": "ihd",
+  "priority": "high",
+  "auto_restart": true
+}
